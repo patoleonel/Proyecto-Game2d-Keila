@@ -106,21 +106,21 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!container) return;
 
         const photos = [
-            'fotos/Abeja/abeja.png',
-            'fotos/Conde Patula/Conde Patula.png',
-            'fotos/Hermana/Hermana.png',
-            'fotos/Iva/Iva.png',
-            'fotos/Juli/Juli.png',
-            'fotos/Keila/Keila.png',
-            'fotos/Luz/luz.png',
-            'fotos/Mama/Mama.png',
-            'fotos/Marti/marti.png',
-            'fotos/Mica/mica.png',
-            'fotos/Papa/papa.png',
-            'fotos/Roja/roja.png',
-            'fotos/maria micaela/Maria Micaela.png',
-            'fotos/srta entropia/srta entropia.png',
-            'fotos/thor/Thor.png'
+            './fotos/Abeja/abeja.png',
+            './fotos/Conde Patula/Conde Patula.png',
+            './fotos/Hermana/Hermana.png',
+            './fotos/Iva/Iva.png',
+            './fotos/Juli/Juli.png',
+            './fotos/Keila/Keila.png',
+            './fotos/Luz/luz.png',
+            './fotos/Mama/Mama.png',
+            './fotos/Marti/marti.png',
+            './fotos/Mica/mica.png',
+            './fotos/Papa/papa.png',
+            './fotos/Roja/roja.png',
+            './fotos/maria micaela/Maria Micaela.png',
+            './fotos/srta entropia/srta entropia.png',
+            './fotos/thor/Thor.png'
         ];
 
         // Generate denser slots procedurally to fill the screen
